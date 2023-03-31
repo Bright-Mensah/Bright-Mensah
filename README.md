@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=F75B36&background=B2FF2700&width=435&lines=Fullstack+web+and+app+developer;Frontend+developer;Backend+developer;Software+Enginner)](https://git.io/typing-svg)
 
+https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
+
 <!--
 **Bright-Mensah/Bright-Mensah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
